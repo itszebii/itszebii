@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zohaib 👋
 
-<!--
-**itszebii/itszebii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Python Developer
 
-Here are some ideas to get you started:
+I'm learning cybersecurity and building practical projects to improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Skills & Learning
+- Python Programming
+- Network Security
+- Ethical Hacking
+- Linux & Kali Linux
+- SOC Operations
+
+### 🚀 Projects
+- **[HeaderCheck](https://github.com/itszebii/HeaderCheck)** — Python-based HTTP Security Headers Analyzer.
+
+### 🎯 Current Goals
+- Improve Python programming skills
+- Build practical cybersecurity projects
+- Develop SOC Analyst skills
+- Learn advanced network security
+
+### 📫 Connect with Me
+- GitHub: [@itszebii](https://github.com/itszebii)
